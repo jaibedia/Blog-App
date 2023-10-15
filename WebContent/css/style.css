@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+	width: 100%;
+	height: 100vh;
+	
+}
+.my-background{
+	background-color: #2196f3 !important;
+}
+
+#h1{
+	color: red;
+	background: black;
+}
